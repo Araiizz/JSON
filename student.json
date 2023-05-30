@@ -1,0 +1,28 @@
+{
+    "name": {
+        "FirstName": "Muhammad",
+        "LastName": "Araiz"
+    },
+    "Age": 22,
+    "EligibleForDriving": true,
+    "Gender": "Male",
+    "address": {
+        "City": "Karachi",
+        "State": "",
+        "Country": "Pakistan",
+        "Location": {
+            "Lat": 30.09,
+            "Lng": 23.09
+        },
+        "Contact": [
+            "0300-0000000"
+        ],
+        "CNIC": [
+            "41201-*******-*"
+        ],
+
+        "Hobbies" : [
+            "Circket", "Chase", "Swiming"
+        ]
+    }
+}
